@@ -194,6 +194,14 @@ Menu
   cursor: pointer;
   transition: var(--transition);
   border-radius: var(--radius);
+  -webkit-transition: var(--transition);
+  -moz-transition: var(--transition);
+  -ms-transition: var(--transition);
+  -o-transition: var(--transition);
+  -webkit-border-radius: var(--radius);
+  -moz-border-radius: var(--radius);
+  -ms-border-radius: var(--radius);
+  -o-border-radius: var(--radius);
 }
 
 .filter-btn:hover {
@@ -223,6 +231,10 @@ Menu
   border: 0.25rem solid var(--clr-gold);
   border-radius: var(--radius);
   display: block;
+  -webkit-border-radius: var(--radius);
+  -moz-border-radius: var(--radius);
+  -ms-border-radius: var(--radius);
+  -o-border-radius: var(--radius);
 }
 
 .item-info header {
