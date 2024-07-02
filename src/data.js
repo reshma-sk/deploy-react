@@ -28,7 +28,7 @@ const menu = [
     title: 'country delight',
     category: 'breakfast',
     price: 20.99,
-    img: './images/pouring-honey-on-pancakes.jpeg',
+    img: './images/fourth.webp',
     desc: `Shabby chic keffiyeh neutra snackwave pork belly shoreditch. Prism austin mlkshk truffaut, `,
   },
   {
