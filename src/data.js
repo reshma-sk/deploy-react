@@ -36,7 +36,7 @@ const menu = [
     title: 'egg attack',
     category: 'lunch',
     price: 22.99,
-    img: './images/pouring-honey-on-pancakes.jpeg',
+    img: './images/egg.jpg',
     desc: `franzen vegan pabst bicycle rights kickstarter pinterest meditation farm-to-table 90's pop-up `,
   },
   {
