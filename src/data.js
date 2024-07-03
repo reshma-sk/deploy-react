@@ -5,7 +5,7 @@ const menu = [
     category: 'breakfast',
     price: 15.99,
     img: './images/pouring-honey-on-pancakes.jpeg',
-    desc: `I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed `,
+    desc: `Buttermilk pancakes are a classic breakfast favorite known for their light and fluffy texture, and slightly tangy flavor.`,
   },
   {
     id: 2,
@@ -13,7 +13,7 @@ const menu = [
     category: 'lunch',
     price: 13.99,
     img: './images/diner-double.jpeg',
-    desc: `vaporware iPhone mumblecore selvage raw denim slow-carb leggings gochujang helvetica man braid jianbing. Marfa thundercats `,
+    desc: `Double Diner is a charming eatery that blends the classic diner experience with a modern twist.  `,
   },
   {
     id: 3,
@@ -21,7 +21,7 @@ const menu = [
     category: 'shakes',
     price: 6.99,
     img: './images/gogzilla-milkshake.webp',
-    desc: `ombucha chillwave fanny pack 3 wolf moon street art photo booth before they sold out organic viral.`,
+    desc: `The Godzilla Milkshake is a monstrous treat that's both towering and delicious, perfect for those with a colossal sweet tooth. `,
   },
   {
     id: 4,
@@ -29,7 +29,7 @@ const menu = [
     category: 'breakfast',
     price: 20.99,
     img: './images/fourth.webp',
-    desc: `Shabby chic keffiyeh neutra snackwave pork belly shoreditch. Prism austin mlkshk truffaut, `,
+    desc: `Country Delight Breakfast is a hearty and satisfying meal that brings the warmth and comfort of country cooking to your table.  `,
   },
   {
     id: 5,
@@ -37,7 +37,7 @@ const menu = [
     category: 'lunch',
     price: 22.99,
     img: './images/egg.jpg',
-    desc: `franzen vegan pabst bicycle rights kickstarter pinterest meditation farm-to-table 90's pop-up `,
+    desc: `Egg Attack Lunch is a dynamic and protein-packed meal designed to satisfy your midday hunger with a delicious array of egg-centric dishes.`,
   },
   {
     id: 6,
@@ -45,7 +45,7 @@ const menu = [
     category: 'shakes',
     price: 18.99,
     img: './images/oreo.webp',
-    desc: `Portland chicharrones ethical edison bulb, palo santo craft beer chia heirloom iPhone everyday`,
+    desc: `The Oreo Dream Shake is a decadent and dreamy dessert beverage that's perfect for cookie lovers.`,
   },
   {
     id: 7,
@@ -53,7 +53,7 @@ const menu = [
     category: 'breakfast',
     price: 8.99,
     img: './images/beacon.jpg',
-    desc: `carry jianbing normcore freegan. Viral single-origin coffee live-edge, pork belly cloud bread iceland put a bird `,
+    desc: `The Bacon Overflow Breakfast is a hearty and indulgent morning feast that celebrates the rich, smoky flavor of bacon in all its glory. `,
   },
   {
     id: 8,
@@ -61,7 +61,7 @@ const menu = [
     category: 'lunch',
     price: 12.99,
     img: './images/american-classic.jpg',
-    desc: `on it tumblr kickstarter thundercats migas everyday carry squid palo santo leggings. Food truck truffaut  `,
+    desc: `hamburger soup, finger-licking buttermilk fried chicken waffle sandwiches and crispy potato skins with roasted tomato ketchup. `,
   },
   {
     id: 9,
@@ -69,7 +69,7 @@ const menu = [
     category: 'shakes',
     price: 16.99,
     img: './images/choclate-shake.jpg',
-    desc: `skateboard fam synth authentic semiotics. Live-edge lyft af, edison bulb yuccie crucifix microdosing.`,
+    desc: `The Quarantine Buddy Shake is a whimsical and comforting drink that became popular during times of isolation.`,
   },
 ];
 export default menu;
